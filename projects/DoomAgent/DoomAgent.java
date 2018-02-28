@@ -92,7 +92,7 @@ public class DoomAgent {
         Random ran = new Random();
 
         // Run this many episodes
-        int episodes = 10;
+        int episodes = 1;
 
         for (int i = 0; i < episodes; ++i) {
 
