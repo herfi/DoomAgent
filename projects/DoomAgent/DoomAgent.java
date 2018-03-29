@@ -119,7 +119,7 @@ public class DoomAgent {
 
                 // You can also get last reward by using this function
                 // double r = game.getLastReward();
-
+                System.out.println(screenBuf);
                 System.out.println("State #" + n);
                 System.out.println("Game variables: " + Arrays.toString(vars));
                 System.out.println("Action reward: " + r);
